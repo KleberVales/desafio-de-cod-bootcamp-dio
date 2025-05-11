@@ -5,3 +5,5 @@ Você foi contratado para desenvolver um sistema que calcule a velocidade média
 
 ## Entrada
 A entrada é uma string contendo uma lista de valores representando a velocidade de conexão em megabits por segundo (Mbps), separados por vírgulas.
+
+## Saída
