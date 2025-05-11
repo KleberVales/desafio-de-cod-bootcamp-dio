@@ -8,3 +8,5 @@ A entrada é uma string contendo uma lista de valores representando a velocidade
 
 ## Saída
 A saída do programa deve ser a velocidade média de conexão em Mbps. O sistema deve somar todos os valores da lista de entrada, calcular a média dividindo o total pelo número de registros, e exibir o resultado.
+
+## Exemplos
